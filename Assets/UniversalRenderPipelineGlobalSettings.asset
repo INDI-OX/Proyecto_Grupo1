@@ -62,9 +62,15 @@ MonoBehaviour:
       - rid: 1997144374021455874
       - rid: 1997144374021455875
       - rid: 1997144374021455876
+<<<<<<< HEAD
       - rid: 681850249495183360
       - rid: 681850249495183361
       - rid: 681850249495183362
+=======
+      - rid: 147660146247991296
+      - rid: 147660146247991297
+      - rid: 147660146247991298
+>>>>>>> 37a73bfa4863297f38feb496c4afae4e48684fca
     m_RuntimeSettings:
       m_List: []
   m_AssetVersion: 9
@@ -90,7 +96,11 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+<<<<<<< HEAD
     - rid: 681850249495183360
+=======
+    - rid: 147660146247991296
+>>>>>>> 37a73bfa4863297f38feb496c4afae4e48684fca
       type: {class: RayTracingRenderPipelineResources, ns: UnityEngine.Rendering.UnifiedRayTracing, asm: Unity.UnifiedRayTracing.Runtime}
       data:
         m_Version: 1
@@ -103,12 +113,20 @@ MonoBehaviour:
         m_BuildHlbvh: {fileID: 7200000, guid: 2d70cd6be91bd7843a39a54b51c15b13, type: 3}
         m_RestructureBvh: {fileID: 7200000, guid: 56641cb88dcb31a4398a4997ef7a7a8c, type: 3}
         m_Scatter: {fileID: 7200000, guid: a2eaeefdac4637a44b734e85b7be9186, type: 3}
+<<<<<<< HEAD
     - rid: 681850249495183361
+=======
+    - rid: 147660146247991297
+>>>>>>> 37a73bfa4863297f38feb496c4afae4e48684fca
       type: {class: OnTilePostProcessResource, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_Version: 0
         m_UberPostShader: {fileID: 4800000, guid: fe4f13c1004a07d4ea1e30bfd0326d9e, type: 3}
+<<<<<<< HEAD
     - rid: 681850249495183362
+=======
+    - rid: 147660146247991298
+>>>>>>> 37a73bfa4863297f38feb496c4afae4e48684fca
       type: {class: URPReflectionProbeSettings, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         version: 1
