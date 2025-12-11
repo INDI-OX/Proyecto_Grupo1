@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: d9e83f17ed7180e4ba69144cff5406af
+guid: 7bfbc9261155e9645bc1a854b49a8317
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8975782331931574122
-    second: Plataforma_0
+      213: -7312860968513974080
+    second: Estante perfil con cajones cerrados_2_0
+  - first:
+      213: 395053862292693905
+    second: Estante perfil con cajones cerrados_2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,40 +99,49 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Plataforma_0
+      name: Estante perfil con cajones cerrados_2_0
       rect:
         serializedVersion: 2
-        x: 27
-        y: 11
-        width: 846
-        height: 146
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 12, z: 0, w: 0}
+        x: 81
+        y: 29
+        width: 247
+        height: 283
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 690cdfb568d9f6380800000000000000
-      internalID: -8975782331931574122
+      spriteID: 0c0d7efb1bf738a90800000000000000
+      internalID: -7312860968513974080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estante perfil con cajones cerrados_2_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 305
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1932a1905638b7500800000000000000
+      internalID: 395053862292693905
       vertices: []
       indices: 
       edges: []
@@ -138,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1577020433a621b4fbb20c5b4b9beb34
+    spriteID: b9bb0fefe8195c34898e66f8a7d69a03
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Plataforma_0: -8975782331931574122
+      Estante perfil con cajones cerrados_2_0: -7312860968513974080
+      Estante perfil con cajones cerrados_2_1: 395053862292693905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d9e83f17ed7180e4ba69144cff5406af
+guid: b30d1e16ab27d914b8074dee64374419
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8975782331931574122
-    second: Plataforma_0
+      213: 6048848791266859070
+    second: Borde_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,40 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Plataforma_0
+      name: Borde_0
       rect:
         serializedVersion: 2
-        x: 27
-        y: 11
-        width: 846
-        height: 146
+        x: 99
+        y: 24
+        width: 508
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 12, z: 0, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 690cdfb568d9f6380800000000000000
-      internalID: -8975782331931574122
+      spriteID: e38138f6de3d1f350800000000000000
+      internalID: 6048848791266859070
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1577020433a621b4fbb20c5b4b9beb34
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Plataforma_0: -8975782331931574122
+      Borde_0: 6048848791266859070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

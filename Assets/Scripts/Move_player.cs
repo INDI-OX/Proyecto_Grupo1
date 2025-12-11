@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Move_player : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     Rigidbody2D rb;
     SpriteRenderer sp;
     float i;
@@ -15,11 +14,10 @@ public class Move_player : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         animator.SetInteger("Caminar", 0);
-        if (Input.GetKeyDown(KeyCode.UpArrow) && enPlataforma == true)
+        if (Input.GetKeyDown(KeyCode.UpArrow) /* && enPlataforma == true */)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 4.5f);
             enPlataforma = false;
@@ -40,7 +38,7 @@ public class Move_player : MonoBehaviour
             sp.flipX = false;
             animator.SetInteger("Caminar", 1);
         }
-        rb.linearVelocity = new Vector2(i * 5f, rb.linearVelocity.y); //La varaible "i" la uso para determinar hacia que lado va y el "5" es la fuerza con al que lo hace.
+        rb.linearVelocity = new Vector2(i * 3f, rb.linearVelocity.y); //La varaible "i" la uso para determinar hacia que lado va y el "5" es la fuerza con al que lo hace.
     }
 
     private void OnCollisionEnter2D(Collision2D coll)
