@@ -13,16 +13,13 @@ public class MoveBetweenPoints : MonoBehaviour
 
     void Start()
     {
-        // Empezamos moviendo hacia B
         target = pointB;
     }
 
     void Update()
     {
-        // Movimiento independiente de la rotación
         transform.position = Vector3.MoveTowards(transform.position, target, speed * Time.deltaTime);
 
-        // Si llegó al destino → cambiar objetivo
         if (Vector3.Distance(transform.position, target) < 0.01f)
         {
             target = (target == pointA) ? pointB : pointA;
