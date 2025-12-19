@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: c841b0dce2f51674fb5eb7e182268515
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7879992986859686407
+    second: Fondo cuaderno - Agujeros_0
+  - first:
+      213: 6958200457768842780
+    second: Fondo cuaderno - Agujeros_1
+  - first:
+      213: -7577107148596532963
+    second: Fondo cuaderno - Agujeros_2
+  - first:
+      213: -651574644787098866
+    second: Fondo cuaderno - Agujeros_3
+  - first:
+      213: -5825198178725570610
+    second: Fondo cuaderno - Agujeros_4
+  - first:
+      213: -7702914241931206827
+    second: Fondo cuaderno - Agujeros_5
+  - first:
+      213: 6405142849163963925
+    second: Fondo cuaderno - Agujeros_6
+  - first:
+      213: -1645898139206202741
+    second: Fondo cuaderno - Agujeros_7
+  - first:
+      213: 6826134644854970515
+    second: Fondo cuaderno - Agujeros_8
+  - first:
+      213: 3024194099389759212
+    second: Fondo cuaderno - Agujeros_9
+  - first:
+      213: -4262361245802996753
+    second: Fondo cuaderno - Agujeros_10
+  - first:
+      213: 1203388596522312572
+    second: Fondo cuaderno - Agujeros_11
+  - first:
+      213: -6172063586016019711
+    second: Fondo cuaderno - Agujeros_12
+  - first:
+      213: 220215068451886184
+    second: Fondo cuaderno - Agujeros_13
+  - first:
+      213: -8761303857174735573
+    second: Fondo cuaderno - Agujeros_14
+  - first:
+      213: -186064126752930821
+    second: Fondo cuaderno - Agujeros_15
+  - first:
+      213: 7681303644548891024
+    second: Fondo cuaderno - Agujeros_16
+  - first:
+      213: -2108033888743554554
+    second: Fondo cuaderno - Agujeros_17
+  - first:
+      213: -640471940285181726
+    second: Fondo cuaderno - Agujeros_18
+  - first:
+      213: -3329840686409311702
+    second: Fondo cuaderno - Agujeros_19
+  - first:
+      213: -6084419899382797720
+    second: Fondo cuaderno - Agujeros_20
+  - first:
+      213: 2575719448784232029
+    second: Fondo cuaderno - Agujeros_21
+  - first:
+      213: -8001193529689775284
+    second: Fondo cuaderno - Agujeros_22
+  - first:
+      213: -1692553683309369972
+    second: Fondo cuaderno - Agujeros_23
+  - first:
+      213: 3345339029844261776
+    second: Fondo cuaderno - Agujeros_24
+  - first:
+      213: 8523099446536123246
+    second: Fondo cuaderno - Agujeros_25
+  - first:
+      213: -3850885753821797841
+    second: Fondo cuaderno - Agujeros_26
+  - first:
+      213: -2157911301719520973
+    second: Fondo cuaderno - Agujeros_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_0
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1051
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a475e1fdb5b5d60800000000000000
+      internalID: 7879992986859686407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_1
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1013
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16b541437e709060800000000000000
+      internalID: 6958200457768842780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_2
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 974
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19a4de8135b8d690800000000000000
+      internalID: -7577107148596532963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_3
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 936
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b40d0105425f6f0800000000000000
+      internalID: -651574644787098866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_4
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 897
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75fc2ae1db82fa0800000000000000
+      internalID: -5825198178725570610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_5
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 859
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f946a0f40c91590800000000000000
+      internalID: -7702914241931206827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_6
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 820
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e2d044c73a3e850800000000000000
+      internalID: 6405142849163963925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 782
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a432cdc589829e0800000000000000
+      internalID: -1645898139206202741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_8
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 743
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39851970b4d4bbe50800000000000000
+      internalID: 6826134644854970515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_9
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 705
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee75f1b28818f920800000000000000
+      internalID: 3024194099389759212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_10
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 666
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb5587a70d09d4c0800000000000000
+      internalID: -4262361245802996753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_11
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 628
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73e77e7d8b43b010800000000000000
+      internalID: 1203388596522312572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_12
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 589
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b34689edc685aa0800000000000000
+      internalID: -6172063586016019711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 551
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8645341207c5e0300800000000000000
+      internalID: 220215068451886184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_14
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 512
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2517dfaf88996680800000000000000
+      internalID: -8761303857174735573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 467
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3c27b99a7fa6df0800000000000000
+      internalID: -186064126752930821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_16
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 428
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0910049a7f8799a60800000000000000
+      internalID: 7681303644548891024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_17
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 390
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60284f6d852ceb2e0800000000000000
+      internalID: -2108033888743554554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_18
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 351
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e052b6e9269c17f0800000000000000
+      internalID: -640471940285181726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_19
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 313
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a1ee7b9870ac1d0800000000000000
+      internalID: -3329840686409311702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_20
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 274
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a68f0965ccf8ba0800000000000000
+      internalID: -6084419899382797720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_21
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 236
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e59d1213bceb320800000000000000
+      internalID: 2575719448784232029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_22
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 197
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43efab70ec06f090800000000000000
+      internalID: -8001193529689775284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 159
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85e01f7467d288e0800000000000000
+      internalID: -1692553683309369972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_24
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 120
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bfd1f8f180d6e20800000000000000
+      internalID: 3345339029844261776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_25
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 82
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e633d101ac1284670800000000000000
+      internalID: 8523099446536123246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_26
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 43
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e6dc4fc7ee8ac0800000000000000
+      internalID: -3850885753821797841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo cuaderno - Agujeros_27
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 5
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339053caa1f8d02e0800000000000000
+      internalID: -2157911301719520973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fondo cuaderno - Agujeros_0: 7879992986859686407
+      Fondo cuaderno - Agujeros_1: 6958200457768842780
+      Fondo cuaderno - Agujeros_10: -4262361245802996753
+      Fondo cuaderno - Agujeros_11: 1203388596522312572
+      Fondo cuaderno - Agujeros_12: -6172063586016019711
+      Fondo cuaderno - Agujeros_13: 220215068451886184
+      Fondo cuaderno - Agujeros_14: -8761303857174735573
+      Fondo cuaderno - Agujeros_15: -186064126752930821
+      Fondo cuaderno - Agujeros_16: 7681303644548891024
+      Fondo cuaderno - Agujeros_17: -2108033888743554554
+      Fondo cuaderno - Agujeros_18: -640471940285181726
+      Fondo cuaderno - Agujeros_19: -3329840686409311702
+      Fondo cuaderno - Agujeros_2: -7577107148596532963
+      Fondo cuaderno - Agujeros_20: -6084419899382797720
+      Fondo cuaderno - Agujeros_21: 2575719448784232029
+      Fondo cuaderno - Agujeros_22: -8001193529689775284
+      Fondo cuaderno - Agujeros_23: -1692553683309369972
+      Fondo cuaderno - Agujeros_24: 3345339029844261776
+      Fondo cuaderno - Agujeros_25: 8523099446536123246
+      Fondo cuaderno - Agujeros_26: -3850885753821797841
+      Fondo cuaderno - Agujeros_27: -2157911301719520973
+      Fondo cuaderno - Agujeros_3: -651574644787098866
+      Fondo cuaderno - Agujeros_4: -5825198178725570610
+      Fondo cuaderno - Agujeros_5: -7702914241931206827
+      Fondo cuaderno - Agujeros_6: 6405142849163963925
+      Fondo cuaderno - Agujeros_7: -1645898139206202741
+      Fondo cuaderno - Agujeros_8: 6826134644854970515
+      Fondo cuaderno - Agujeros_9: 3024194099389759212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

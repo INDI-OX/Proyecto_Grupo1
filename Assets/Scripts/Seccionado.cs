@@ -6,11 +6,13 @@ public class Seccionado : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public List<GameObject> plataformaA;
     public List<GameObject> plataformaB;
+    public Vector2 spawnPosition;
     public bool activar;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player")) //Aca esta el tag de "Player" que lo tiene por defecto el Unity, despues vemos si lo cambiamos.
+        if (collision.CompareTag("Player"))
         {
+            // Cambia plataformas
             if (activar)
             {
                 ActivarLista(plataformaA, false);
@@ -21,8 +23,11 @@ public class Seccionado : MonoBehaviour
                 ActivarLista(plataformaA, true);
                 ActivarLista(plataformaB, false);
             }
+
+            collision.transform.position = spawnPosition;
         }
     }
+
     void ActivarLista(List<GameObject> lista, bool activacion)
     {
         foreach (GameObject obj in lista)
