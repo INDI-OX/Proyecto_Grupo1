@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e87bea4de00b76e44a8387337956caa5
+guid: 1f79f7685d3431c49bf45c684cb479da
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2979530142256987937
-    second: Fondo_cuaderno_-_Referencia_0
+      213: -1145558484380760014
+    second: Pick up Papel 2 - brillante_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fondo_cuaderno_-_Referencia_0
+      name: Pick up Papel 2 - brillante_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 7
+        y: 17
+        width: 193
+        height: 167
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12ffbcec0ea695920800000000000000
-      internalID: 2979530142256987937
+      spriteID: 238cc0db0a82a10f0800000000000000
+      internalID: -1145558484380760014
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fondo_cuaderno_-_Referencia_0: 2979530142256987937
+      Pick up Papel 2 - brillante_0: -1145558484380760014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

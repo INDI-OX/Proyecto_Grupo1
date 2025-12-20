@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f4671ffc663421646b0c0f91399ac25b
+guid: 92a5198e3da71d2488be2d360b710906
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2007416731848541968
-    second: Papel 1_0
+      213: -2025291797338803197
+    second: Pick up Papel 3 - brillante_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Papel 1_0
+      name: Pick up Papel 3 - brillante_0
       rect:
         serializedVersion: 2
-        x: 963
-        y: 817
-        width: 751
-        height: 263
+        x: 24
+        y: 0
+        width: 205
+        height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f8fdfd3e193424e0800000000000000
-      internalID: -2007416731848541968
+      spriteID: 304bb1d37d7b4e3e0800000000000000
+      internalID: -2025291797338803197
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Papel 1_0: -2007416731848541968
+      Pick up Papel 3 - brillante_0: -2025291797338803197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

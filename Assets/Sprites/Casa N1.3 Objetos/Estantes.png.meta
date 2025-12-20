@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 83e470a29f12ddd44a4956ad1a2094f4
+guid: cf39368b3b0804d4bbce60dd567382b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4708383005438003409
-    second: Nuevo_Escenario_1.1_0
+      213: -3941356854942555309
+    second: Estantes_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nuevo_Escenario_1.1_0
+      name: Estantes_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 22
+        y: 13
+        width: 179
+        height: 227
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d84e99b569875140800000000000000
-      internalID: 4708383005438003409
+      spriteID: 353291892dc7d49c0800000000000000
+      internalID: -3941356854942555309
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nuevo_Escenario_1.1_0: 4708383005438003409
+      Estantes_0: -3941356854942555309
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

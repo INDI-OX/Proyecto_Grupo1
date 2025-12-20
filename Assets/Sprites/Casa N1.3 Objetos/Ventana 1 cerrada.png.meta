@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ae8c172b2c9e954418351fd1f599ba62
+guid: 96d258694aa9bb247b4be59679a02f58
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5633731612553349799
-    second: Oscuridad_2_0
+      213: -1061248340453770278
+    second: Ventana 1 cerrada_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Oscuridad_2_0
+      name: Ventana 1 cerrada_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 18254
-        height: 6014
+        x: 17
+        y: 17
+        width: 336
+        height: 148
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7aa81268d090f2e40800000000000000
-      internalID: 5633731612553349799
+      spriteID: adbb7c0d140b541f0800000000000000
+      internalID: -1061248340453770278
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Oscuridad_2_0: 5633731612553349799
+      Ventana 1 cerrada_0: -1061248340453770278
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
