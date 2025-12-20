@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "Animacion_NI\xF1o_2"
+  m_Name: New Animation
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,7 +21,7 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 4600056105948557769, guid: bd8e50eb813208d4a9cf24ceb9569dc3, type: 3}
+      value: {fileID: -4626786730519210482, guid: d6584afa1a8fb3d44926416a02759aa9, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -44,7 +44,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 4600056105948557769, guid: bd8e50eb813208d4a9cf24ceb9569dc3, type: 3}
+    - {fileID: -4626786730519210482, guid: d6584afa1a8fb3d44926416a02759aa9, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

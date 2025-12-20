@@ -7,6 +7,9 @@ public class Move_player : MonoBehaviour
     float i;
     public bool enPlataforma = false;
     private Animator animator;
+    public float distancia_Plataforma = 0.15f;
+    public Transform posicion_Pies;
+    public LayerMask piso;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -16,8 +19,9 @@ public class Move_player : MonoBehaviour
 
     void Update()
     {
-        animator.SetInteger("Caminar", 0);
-        if (Input.GetKeyDown(KeyCode.UpArrow) /* && enPlataforma == true */)
+        SobrePlataforma();
+        animator.SetInteger("Move", 0);
+        if (Input.GetKeyDown(KeyCode.UpArrow) && enPlataforma == true )
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 4.5f);
             enPlataforma = false;
@@ -26,7 +30,7 @@ public class Move_player : MonoBehaviour
         {
             i = -1;
             sp.flipX = true;
-            animator.SetInteger("Caminar", 1);
+            animator.SetInteger("Move", 1);
         }
         else
         {
@@ -36,16 +40,14 @@ public class Move_player : MonoBehaviour
         {
             i = 1;
             sp.flipX = false;
-            animator.SetInteger("Caminar", 1);
+            animator.SetInteger("Move", 1);
         }
         rb.linearVelocity = new Vector2(i * 3f, rb.linearVelocity.y); //La varaible "i" la uso para determinar hacia que lado va y el "5" es la fuerza con al que lo hace.
     }
-
-    private void OnCollisionEnter2D(Collision2D coll)
+    void SobrePlataforma()
     {
-        if (coll.gameObject.tag == "plataforma")
-        {
-            enPlataforma = true; //Esto despues lo voy a actualizar para que no ocurra lo de que puda saltar de nuevo al tocar una plataforma desde cualquier lado.
-        }
+        RaycastHit2D hit = Physics2D.Raycast(posicion_Pies.position, Vector2.down,distancia_Plataforma,piso);
+        enPlataforma = hit.collider != null;
+        Debug.DrawRay(posicion_Pies.position, Vector2.down * distancia_Plataforma, Color.red);
     }
 }
