@@ -10,11 +10,14 @@ public class Move_player : MonoBehaviour
     public float distancia_Plataforma = 0.15f;
     public Transform posicion_Pies;
     public LayerMask piso;
+    public AudioClip sonido_Salto;
+    AudioSource audioSource;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         sp = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -23,7 +26,12 @@ public class Move_player : MonoBehaviour
         animator.SetInteger("Move", 0);
         if (Input.GetKeyDown(KeyCode.UpArrow) && enPlataforma == true )
         {
+            animator.SetInteger("Move", 2);
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 4.5f);
+            if (sonido_Salto != null)
+            {
+                audioSource.PlayOneShot(sonido_Salto);
+            }
             enPlataforma = false;
         }
         else if (Input.GetKey(KeyCode.LeftArrow))
