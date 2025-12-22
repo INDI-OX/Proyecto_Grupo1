@@ -3,18 +3,19 @@ using UnityEngine.SceneManagement;
 
 public class Cambio_Scene : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-
     public void Update()
     {
         if (ItemPickup.papeles_obt >= 7)
         {
-            Invoke(nameof(CargarMenu), 18f);
+            Invoke(nameof(CargarMenu), 35f);
+            ItemPickup.papeles_obt = 0;
+            Time.timeScale = 0f;
         }
     }
 
     void CargarMenu()
     {
         SceneManager.LoadScene("Menu");
+        Time.timeScale = 1f;
     }
 }
