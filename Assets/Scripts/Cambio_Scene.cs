@@ -9,7 +9,7 @@ public class Cambio_Scene : MonoBehaviour
     {
         if (ItemPickup.papeles_obt >= 7)
         {
-            Invoke(nameof(CargarMenu), 10f);
+            Invoke(nameof(CargarMenu), 18f);
         }
     }
 
