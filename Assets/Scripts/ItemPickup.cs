@@ -15,6 +15,7 @@ public class ItemPickup : MonoBehaviour
     //public float tiempo = 0f;
     private bool picked = false;
     public static int papeles_obt = 0;
+    public static int interaccion = 0;
 
     private void Start()
     {
@@ -53,6 +54,7 @@ public class ItemPickup : MonoBehaviour
 
         if (collision.CompareTag("Player"))
         {
+            interaccion++;
             papeles_obt++;
             picked = true;
 
@@ -64,17 +66,5 @@ public class ItemPickup : MonoBehaviour
 
             Destroy(gameObject,0.3f);
         }
-    }
-    private void Update()
-    {
-        if (papeles_obt >= 7)
-        {
-            Invoke(nameof(CargartEscena), 10f);
-        }
-    }
-
-    private void CargartEscena()
-    {
-        SceneManager.LoadScene("Menu");
     }
 }

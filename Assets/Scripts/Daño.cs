@@ -3,7 +3,7 @@ using UnityEngine;
 public class Daño : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public int daño = 10;
+    public float daño = 0.10f;
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.CompareTag("Player"))
