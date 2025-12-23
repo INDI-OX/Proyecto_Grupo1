@@ -3220,7 +3220,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Programadores:\n- Inti Omar\n- Bruno Pacello\n\nDise\xF1adores:\n- Alexia
+  m_text: "Programadores:\n- Bruno Pacello\n- Inti Omar\n\nDise\xF1adores:\n- Alexia
     Cerrudo\n- Nicolas Baez"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 051216de44f01844faaea9a62596ade3, type: 2}
