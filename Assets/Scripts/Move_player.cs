@@ -9,6 +9,7 @@ public class Move_player : MonoBehaviour
     private Animator animator;
     public float distancia_Plataforma = 0.15f;
     public Transform posicion_Pies;
+    public Transform posicion_Pies_1;
     public LayerMask piso;
     public AudioClip sonido_Salto;
     AudioSource audioSource;
@@ -55,7 +56,8 @@ public class Move_player : MonoBehaviour
     void SobrePlataforma()
     {
         RaycastHit2D hit = Physics2D.Raycast(posicion_Pies.position, Vector2.down,distancia_Plataforma,piso);
-        enPlataforma = hit.collider != null;
+        RaycastHit2D hit1 = Physics2D.Raycast(posicion_Pies_1.position, Vector2.down, distancia_Plataforma, piso);
+        enPlataforma = hit.collider != null|| hit1.collider != null;
         Debug.DrawRay(posicion_Pies.position, Vector2.down * distancia_Plataforma, Color.red);
     }
 }

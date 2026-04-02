@@ -3,7 +3,7 @@ using UnityEngine;
 public class Oscuridad : MonoBehaviour
 {
     public Vida vida;
-    public float reduccion = 0.083f;
+    public float reduccion = 0.08f;
     public Vector3 escala_final = new Vector3(0.9972402f, 0.9972402f, 0);
     public Vector3 escala_inicial;
     private int interaccion_1 = 0;
